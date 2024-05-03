@@ -1,3 +1,3 @@
-=== Made by l3rennan ===
+# === Made by l3rennan ===
 
 AutoSS : Automatically captures screenshots
